@@ -1,6 +1,6 @@
 # CryptoMart
 
-![CryptoMart Logo](https://via.placeholder.com/150)  
+![CryptoMart Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXkgPBcthNp29WrpcSoLm42-jcT6uPnwZBA&s)  
 *Buy luxury products using cryptocurrency.*
 
 ## Table of Contents
